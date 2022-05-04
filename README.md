@@ -1,11 +1,11 @@
-# 部落冲突挂机脚本
+# 部落冲突游戏助手
 #### 用到的工具及软件
 - 手机或者电脑
 - 手机下载VMOS虚拟机或者电脑下个模拟器
 - 城管COC脚本（也可以用别的脚本）
 ## 开始
 ```diff
-+ 本教程以手机 + VMOS PRO + 城管COC脚本为例子
++ 本教程以手机 + VMOS PRO + 城管COC辅助为例子
 ```
 1) [下载VMOS Pro](https://lovekevin.top/%E5%90%84%E7%A7%8D%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/VMOS%20Pro_v2.3.4_NotLogin.apk)  
 - 需要下载最新版VMOS Pro及VMOS助手的话这里推荐两个下载站  

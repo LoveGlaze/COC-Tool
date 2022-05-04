@@ -2,7 +2,7 @@
 #### 用到的工具及软件
 - 手机或者电脑
 - 手机下载VMOS Pro或者电脑下个模拟器
-- 城管COC脚本（也可以用别的脚本）
+- 城管COC辅助（也可以用别的辅助）
 ## 开始
 ```diff
 + 本教程以手机 + VMOS PRO + 城管COC辅助为例子
@@ -10,7 +10,7 @@
 1) [下载VMOS Pro](https://lovekevin.top/%E5%90%84%E7%A7%8D%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/VMOS%20Pro_v2.3.4_NotLogin.apk)  
 - 需要下载最新版VMOS Pro及VMOS助手的话这里推荐两个下载站  
 [![](https://img.shields.io/badge/423Down-red)](https://www.423down.com)  [![](https://img.shields.io/badge/乐享-red)](https://www.lxapk.com)  
-2) 若手机为安卓12，请下载[VMOS助手](https://lovekevin.top/%E5%90%84%E7%A7%8D%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/VMOS%E5%8A%A9%E6%89%8B_v3.2.4.apk)进行激活，[教程](https://www.bilibili.com/video/av723999547?zw)  
+2) 若手机为安卓12，请下载[VMOS助手](https://lovekevin.top/%E5%90%84%E7%A7%8D%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/VMOS%E5%8A%A9%E6%89%8B_v3.2.4.apk)进行激活，[教程](https://lovekevin.top/%E5%90%84%E7%A7%8D%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/VMOS%E5%8A%A9%E6%89%8B.mp4)  
 3) 打开VMOS Pro，点击+号添加系统
 
 ![](https://cdn.jsdelivr.net/gh/LoveGlaze/COC-Tool@master/images/1.jpg)
@@ -57,5 +57,6 @@
 
 ## 结语
 - 如需运行多个部落冲突，同版本可自行下载APK编辑器多开，然后在COC辅助上勾选30分钟后切号，账号2界面启用并且勾选切号。
-- 挂机尽量把捐兵和求援以及友谊战取消，兵种也可自行设置
-- 旧手机设置永不熄屏，插上充电器即可24小时挂机
+- 尽量把捐兵和求援以及友谊战取消，兵种也可自行设置
+- 旧手机设置永不熄屏，插上充电器即可24小时在线
+- 有任何问题联系QQ：617683180
